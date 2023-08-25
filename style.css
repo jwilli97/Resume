@@ -1,0 +1,36 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#name {
+    text-align: center;
+}
+
+#job-title {
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
+
+#objective-statement {
+    text-align: center;
+}
+
+.section-heading {
+    text-align: center;
+}
+
+.edu {
+    text-align: center;
+}
+
+.edu-sub {
+    text-align: center;
+}
